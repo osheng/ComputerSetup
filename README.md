@@ -42,3 +42,5 @@ It really is possible to lose files in this process. Do back up anything importa
   * Choose 'no' to network mirror
 
 And after all that the GUI doesn't load. I just get a console when Debian boots. To be continued...
+
+Unfortunately, this process also makes it so that every time you boot into Windows, it will ask for your recovery key. To prevent this enter your key, go to settings, and turn off BitLocker encryption.
